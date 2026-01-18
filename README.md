@@ -166,8 +166,7 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experiencia-Desarrollo%20Fullstack-blue?style=for-the-badge" alt="Experiencia" />
-  &nbsp;&nbsp;
+  
   <img src="https://img.shields.io/badge/Enfoque-Frontend%20%26%20Backend-green?style=for-the-badge" alt="Enfoque" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Aprendiendo-Nuevas%20Tecnolog%C3%ADas-orange?style=for-the-badge" alt="Aprendiendo" />
