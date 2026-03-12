@@ -172,7 +172,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://top-lenguajes-api-5rrpg18m8-fernandobatys-projects.vercel.app/api/top-langs-icons?username=FernandoBATY&theme=dark&v=1"/>
+  <img  align="center"  src="https://top-lenguajes-api-git.vercel.app/api/top-langs-icons?username=FernandoBATY&theme=dark"/>
 
   </td>
 </tr>
