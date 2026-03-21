@@ -195,11 +195,6 @@
 <p>
 
 
-<div align="center">
-   ¡Gracias por visitar mi perfil! ¡Que tengas un excelente día! 
-  &copy; 2026 FernandoBATY
-</div>
-
 
 ---
 
