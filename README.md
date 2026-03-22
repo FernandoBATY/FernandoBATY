@@ -194,10 +194,6 @@
   <a>bryanaguilarfer@gmail.com</a>
 <p>
 
-
-
----
-
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
 Última edición: 07/03/2026
