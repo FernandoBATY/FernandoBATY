@@ -168,7 +168,7 @@
 
   <img  align="center"  src="https://github-stats-alpha.vercel.app/api?username=FernandoBATY&cc=22272e&tc=37BCF6&ic=fff&bc=0d1117" />
   <br></br>
-  <img  title="🔥 Racha de contribuciones" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=FernandoBATY&theme=dark&hide_border=true" /> 
+  <img  title="Racha de contribuciones" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=FernandoBATY&theme=dark&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
 
