@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola!+Soy+FernandoBATY;Bienvenido+a+mi+perfil!" alt="Title"></img>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="assets/fly.webp" height="120px" />
-</div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></img> Sobre mí
 
@@ -196,4 +187,4 @@
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 07/03/2026
+Última edición: 27/03/2026
