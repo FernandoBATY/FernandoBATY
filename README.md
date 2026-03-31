@@ -176,6 +176,19 @@
   <img src="https://img.shields.io/badge/Aprendiendo-Nuevas%20Tecnolog%C3%ADas-orange?style=for-the-badge" alt="Aprendiendo" />
 </p>
 
+## 📚 Actualmente aprendiendo (stack actual)
+
+- TypeScript avanzado
+- Docker para despliegues
+
+
+## 🤝 Abierto a practicas / freelance / colaboracion
+
+Estoy disponible para:
+- Practicas profesionales
+- Proyectos freelance
+- Colaboraciones en proyectos Open Source
+
 ## <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60px" height="60px"> Contáctame
 
 <p align="center">
@@ -187,4 +200,4 @@
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 27/03/2026
+Última edición: 30/03/2026
