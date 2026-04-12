@@ -189,6 +189,14 @@ Estoy disponible para:
 - Proyectos freelance
 - Colaboraciones en proyectos Open Source
 
+## 🚧 Ahora construyendo
+
+Remote Gamepad (LAN): convierto Android en control para PC por WiFi local.
+
+- Monorepo con Electron + Node.js (desktop) y Flutter (mobile).
+- Conexion por QR y Socket.IO para enviar inputs en tiempo real.
+- Estado actual: en desarrollo activo, mejorando estabilidad y latencia.
+
 ## <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60px" height="60px"> Contáctame
 
 <p align="center">
@@ -200,4 +208,4 @@ Estoy disponible para:
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 30/03/2026
+Última edición: 11/04/2026
