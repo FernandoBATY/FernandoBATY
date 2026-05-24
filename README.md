@@ -5,7 +5,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- Estudiante de Licenciatura en Informática
+- Egresado de la Licenciatura en Informática
 - Actualmente trabajando en proyectos de Desarrollo Fullstack
 - Aprendiendo constantemente nuevas tecnologías y frameworks
 - Buscando colaborar con otros desarrolladores en proyectos interesantes
