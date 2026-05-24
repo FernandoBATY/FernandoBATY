@@ -20,136 +20,50 @@
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Lenguajes y Herramientas
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Herramientas y Tecnologías
 
-### Frontend
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-                alt="vuejs"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-                alt="nextjs"
-                width="40"
-                height="40"
-        />
-    </a>
-</p>
 
-### Backend
-<p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                alt="java"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-</p>
+| **Frontend**  
+  <table>
+  <tr>
+    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /></a></td>
+    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" /></a></td>
+  </tr>
+  </table>
 
-### Bases de Datos
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-                alt="redis"
-                width="40"
-                height="40"
-        />
-    </a>
-</p>
+  **Backend**  
+  <table>
+  <tr>
+    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" /></a></td>
+    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" /></a></td>
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" /></a></td>
+  </tr>
+  </table> **Bases de Datos**  
+  <table>
+  <tr>
+    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /></a></td>
+    <td><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60" /></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
 
-### Herramientas
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-</p>
+  **Herramientas**  
+  <table>
+  <tr>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /></a></td>
+    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" /></a></td>
+  </tr>
+  </table> |
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Mis Estadísticas
 
@@ -180,6 +94,8 @@
 
 - TypeScript avanzado
 - Docker para despliegues
+- Godot / GDScript (desarrollo de juegos)  
+- APIs y herramientas para visualización de lenguajes (JavaScript/Node.js)
 
 
 ## 🤝 Abierto a practicas / freelance / colaboracion
@@ -191,11 +107,12 @@ Estoy disponible para:
 
 ## 🚧 Ahora construyendo
 
-Remote Gamepad (LAN): convierto Android en control para PC por WiFi local.
+- `Polarv` — Juego en Godot (GDScript).  
+  - Estado: activo — pulido de mecánicas, optimización de escenas y fixes de input/physics.  
+  - Última actualización detectada: 23/05/2026.  
+  - Enfoque: mejorar performance, refactor de scripts principales y añadir menús y sistema de guardado.
 
-- Monorepo con Electron + Node.js (desktop) y Flutter (mobile).
-- Conexion por QR y Socket.IO para enviar inputs en tiempo real.
-- Estado actual: en desarrollo activo, mejorando estabilidad y latencia.
+Estado: centrado en `Polarv` (Godot) — prioridad alta.
 
 ## <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60px" height="60px"> Contáctame
 
