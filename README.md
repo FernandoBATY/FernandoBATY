@@ -1,7 +1,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></img> Sobre mí
 
-<table align="center">
+<table align="center" width="100%">
 <tr border="none">
 <td width="50%" align="left">
 
@@ -22,7 +22,7 @@
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Herramientas y Tecnologías
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
 <strong>Frontend</strong>
@@ -75,7 +75,10 @@
 
   <img  align="center"  src="https://github-stats-alpha.vercel.app/api?username=FernandoBATY&cc=22272e&tc=37BCF6&ic=fff&bc=0d1117" />
   <br></br>
-  <img  title="Racha de contribuciones" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=FernandoBATY&theme=dark&hide_border=true" /> 
+  <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
+    <img title="Racha de contribuciones" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=FernandoBATY&theme=tokyonight" />
+  </a>
+  
 </td>
 <td width="50%" align="center">
 
