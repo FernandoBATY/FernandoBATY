@@ -75,7 +75,9 @@
 
   <img  align="center"  src="https://github-stats-alpha.vercel.app/api?username=FernandoBATY&cc=22272e&tc=37BCF6&ic=fff&bc=0d1117" />
   <br></br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=FernandoBATY&theme=tokyonight)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=FernandoBATY&theme=tokyonight" alt="GitHub Streak" />
+  </a>
   
 </td>
 <td width="50%" align="center">
