@@ -10,7 +10,7 @@
 - Aprendiendo constantemente nuevas tecnologías y frameworks
 - Buscando colaborar con otros desarrolladores en proyectos interesantes
 - Interesado en contribuir a proyectos de código abierto
-- Uso diariamente: `.js`, `.ts`, `.py`, `.css`, `.html`, `java`, `c#`.
+- Uso diariamente: `.js`, `.ts`, `.py`, `.css`, `.html`.
 - Pregúntame sobre **react**, **nextjs**, **vue**, **springboot**, **fullstack**, **desarrollo web**
 
 </td>
@@ -156,4 +156,4 @@ Estado: centrado en `Polarv` (Godot) — prioridad alta.
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 07/06/2026
+Última edición: 10/06/2026
