@@ -6,7 +6,6 @@
 <td width="50%" align="left">
 
 - Egresado de la Licenciatura en Informática
-- Actualmente trabajando en proyectos de Desarrollo Fullstack
 - Aprendiendo constantemente nuevas tecnologías y frameworks
 - Buscando colaborar con otros desarrolladores en proyectos interesantes
 - Interesado en contribuir a proyectos de código abierto
