@@ -144,6 +144,35 @@ Estoy disponible para:
 
 Estado: centrado en `Polarv` (Godot) — prioridad alta.
 
+## 🧩 Proyecto actual: POLAR V
+
+Juego móvil cozy/social 2D isométrico con aldeas persistentes, decoración avanzada y visitas online/offline.
+
+**Resumen técnico**
+
+- Motor: Godot 4.3+
+- Backend: Nakama
+- Base de datos: PostgreSQL
+- Estilo visual: 2D isométrico ilustrado, sin pixel art
+- Estructura: zonas lógicas por chunks, decoración por grilla y objetos como nodos independientes
+
+**MVP actual**
+
+- Cargar aldea
+- Mover personaje
+- Entrar a casa
+- Modo decoración
+- Colocar objeto
+- Guardar y cargar progreso
+- Visitar aldeas offline
+
+**Prioridad de desarrollo**
+
+- Fase 1: movimiento, TileMapLayer, grid y decoración básica
+- Fase 2: inventario, NPCs y economía
+- Fase 3: online, visitas, chat y trade
+- Fase 4: eventos, clima y expansión de contenido
+
 ## <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60px" height="60px"> Contáctame
 
 <p align="center">
@@ -155,4 +184,4 @@ Estado: centrado en `Polarv` (Godot) — prioridad alta.
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 10/06/2026
+Última edición: 13/06/2026
