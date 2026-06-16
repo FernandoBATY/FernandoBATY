@@ -169,7 +169,7 @@ Juego móvil cozy/social 2D isométrico con aldeas persistentes, decoración ava
 **Prioridad de desarrollo**
 
 - Fase 1: movimiento, TileMapLayer, grid y decoración básica
-- Fase 2: inventario, NPCs y economía
+- Fase 2: inventario, NPCs y economía (Avance actual del juego y en desarrollo)
 - Fase 3: online, visitas, chat y trade
 - Fase 4: eventos, clima y expansión de contenido
 
@@ -184,4 +184,4 @@ Juego móvil cozy/social 2D isométrico con aldeas persistentes, decoración ava
 
 Créditos: [FernandoBATY](https://github.com/FernandoBATY)
 
-Última edición: 13/06/2026
+Última edición: 15/06/2026
