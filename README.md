@@ -10,7 +10,7 @@
 - Buscando colaborar con otros desarrolladores en proyectos interesantes
 - Interesado en contribuir a proyectos de código abierto
 - Uso diariamente: `.js`, `.ts`, `.py`, `.css`, `.html`.
-- Pregúntame sobre **react**, **nextjs**, **vue**, **springboot**, **fullstack**, **desarrollo web**
+- Pregúntame sobre **react**, **nextjs**, **vue**, **fullstack**, **desarrollo web**
 
 </td>
 <td width="50%" align="center">
