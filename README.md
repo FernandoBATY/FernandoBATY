@@ -51,8 +51,7 @@
 <table align="center" cellspacing="10" cellpadding="0">
 <tr>
 <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="72" height="72"/></a></td>
-<td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="72" height="72"/></a></td>
-<td align="center"><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="72" height="72"/></a></td>
+
 </tr>
 <tr>
 <td align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="72" height="72"/></a></td>
