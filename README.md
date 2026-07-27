@@ -10,6 +10,7 @@
 
 ```yaml
 const fernando = {
+  titulo: 'Egresado de Licenciatura en Informática',
   stack:  ['js', 'ts', 'py', 'cs', 'react', 'next', 'node'],
   vibe:   'fullstack con alma de game dev',
   status: 'trabajando',
