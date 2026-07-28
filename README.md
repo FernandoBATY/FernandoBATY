@@ -93,10 +93,6 @@ const fernando = {
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Enfoque-Frontend%20%26%20Backend-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aprendiendo-Nuevas%20Tecnolog%C3%ADas-FF6D00?style=for-the-badge" />
-</p>
 
 ---
 
