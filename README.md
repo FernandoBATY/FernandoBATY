@@ -81,7 +81,7 @@ const fernando = {
   <img src="https://github-stats-alpha.vercel.app/api?username=FernandoBATY&cc=22272e&tc=37BCF6&ic=fff&bc=0d1117" />
   <br><br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FernandoBATY&theme=ambient-gradient&locale=es" />
+    <img src="https://streak-stats.demolab.com?user=FernandoBATY&theme=ambient-gradient&locale=es&v=2" />
   </a>
 
 </td>
